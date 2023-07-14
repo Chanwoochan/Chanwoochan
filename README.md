@@ -64,7 +64,7 @@ _Mechanical Engineering : Mechanism Design_
 
 ```python
 print("Hello, Chanwoochan's World!")
-# that's about it.
+# that's about it. [python]
 ```
 
 ```c
@@ -73,7 +73,7 @@ int main(void) {
   printf("Hello, Chanwoochan's World!\n");
   return 0;
 }
-// that's about it.
+// that's about it. [c]
 ```
 
 ```cpp
@@ -82,7 +82,7 @@ int main(void) {
   std::cout << "Hello, Chanwoochan's World!" << std::endl;
   return 0;
 }
-// that's about it.
+// that's about it. [c++]
 ```
 
 ```아희
@@ -101,7 +101,7 @@ int main(void) {
 받밝따밤따받다맣밦밦따받따붇
 붇떠벖벖멓더벖떠벋떠벖벖멓더
 따맣발발따밤따맣발밦따받다뭏
-이상입니다찬우찬희멓떠벌번어
+이상입니다.[아희]멓떠벌번
 ```
 
 
