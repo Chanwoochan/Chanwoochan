@@ -5,7 +5,7 @@
   ### 😊 DAILY LIFE!! 😊  
 
 <a href="https://blog.naver.com/kcwjoma" target="_blank"><img src="https://img.shields.io/badge/Chanwoochan Blog-03C75A?style=for-the-badge&logo=Naver&logoColor=FFFFFF"/></a>
-<a href="https://instagram.com/chanwoochan_?igshid=OGQ5ZDc2ODk2ZA==" target="_blank"><img src="https://img.shields.io/badge/@chanwoochan_-E4405F?style=for-the-badge&logo=Instagram&logoColor=FFFFFF"/></a>
+<a href="https://instagram.com/chanwoochan_?igshid=OGQ5ZDc2ODk2ZA==" target="_blank"><img src="https://img.shields.io/badge/@chanwoochan__-E4405F?style=for-the-badge&logo=Instagram&logoColor=FFFFFF"/></a>
 <br>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/kcwjoma@kookmin.ac.kr-EA4335?style=flat-square&logo=Gmail&logoColor=FFFFFF"/></a>
 <br><br><br>
