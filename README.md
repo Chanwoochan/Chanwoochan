@@ -49,28 +49,60 @@ _Mechanical Engineering : Mechanism Design_
 # Strengths and weaknesses #
 
 
-> Strengths:
+|Strengths|Weaknesse|
+|:--:|:--:|
+|..|English.|
+||English.|
+||English.|
+||English.|
 
-### ..
-
-<br>
-<br>
-
-> Weaknesses:
-
-### English.
-### English.
-### English.
-### English.
-### English.
 
 <br>
 <br>
 <br>
 <br>
 
-> That's about it.
+```python
+print("Hello, Chanwoochan's World!")
+# that's about it.
+```
 
+```c
+# include <stdio.h>
+int main(void) {
+  printf("Hello, Chanwoochan's World!\n");
+  return 0;
+}
+// that's about it.
+```
+
+```cpp
+# include <iostream>
+int main(void) {
+  std::cout << "Hello, Chanwoochan's World!" << std::endl;
+  return 0;
+}
+// that's about it.
+```
+
+```아희
+밣받따받따맣밝밝따박따받다뭏
+붒벖멓떠벋떠벖벖멓떠벋떠벖벖
+따받따받다맣밤발따반따밤다뭏
+붇떠벅떠범떠벅범멓떠번떠범범
+다맣밝밝따박따밦다맣받받따분
+뭏더벅떠벋떠벖벖멓더벍떠벌떠
+밝밤따밤따밝다맣밦밦따받따붇
+분떠벋벋멓더벋떠벋떠벖벖멓더
+따발따밝다반다맣밝밝따박따붒
+붒벖멓더벍떠벌떠번떠벋벋멓더
+따받따박다맣받받따밤따받다뭏
+뭏떠번떠범범멓더벍떠벋떠벖벖
+받밝따밤따받다맣밦밦따받따붇
+붇떠벖벖멓더벖떠벋떠벖벖멓더
+따맣발발따밤따맣발밦따받다뭏
+이상입니다찬우찬희멓떠벌번어
+```
 
 
 <!--
