@@ -68,7 +68,7 @@ print("Hello, Chanwoochan's World!")
 ```
 
 ```c
-# include <stdio.h>
+#include <stdio.h>
 int main(void) {
   printf("Hello, Chanwoochan's World!\n");
   return 0;
@@ -77,7 +77,7 @@ int main(void) {
 ```
 
 ```cpp
-# include <iostream>
+#include <iostream>
 int main(void) {
   std::cout << "Hello, Chanwoochan's World!" << std::endl;
   return 0;
