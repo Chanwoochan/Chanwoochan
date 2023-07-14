@@ -15,17 +15,52 @@
 <a href="" target="_blank"><img src="https://img.shields.io/badge/C--Language-A8B9CC?style=for-the-badge&logo=C&logoColor=FFFFFF"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=FFFFFF"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=FFFFFF"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ROS&logoColor=FFFFFF"/></a>
 <br><br><br>
 
 ### ⚙️ IN MAJOR ⚙️
-_Mechanical Engineering_
+_Mechanical Engineering : Mechanism Design_
 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Solid Works-005386?style=for-the-badge&logo=dassaultsystemes&logoColor=FFFFFF"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/SolidWorks-005386?style=for-the-badge&logo=dassaultsystemes&logoColor=FFFFFF"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Fusion 360-F8991C?style=for-the-badge&logo=Autodesk&logoColor=FFFFFF"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Inventor-F7A81B?style=for-the-badge&logo=Autodesk&logoColor=FFFFFF"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/AutoCAD-CD2640?style=for-the-badge&logo=Autodesk&logoColor=FFFFFF"/></a>
+<br><br><br>
+
+------
 
 </div>
+
+> ‼️ This document was written in Korean and translated through Papago! ‼️
+
+<br>
+<br>
+
+# Strengths and weaknesses #
+
+
+> Strengths:
+
+### ..
+
+<br>
+<br>
+
+> Weaknesses:
+
+### English.
+### English.
+### English.
+### English.
+### English.
+
+<br>
+<br>
+<br>
+<br>
+
+> That's about it.
 
 
 
