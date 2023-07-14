@@ -1,5 +1,6 @@
 <p align="center"><img src="https://postfiles.pstatic.net/MjAyMzA3MTVfMTg3/MDAxNjg5MzU1MjQxMzAz.XZ13j8UBmpe8QpzCtudBIVlNXSD2h81s_xOYIchCmYEg.77uYJ9K-HsOueLQxNkcmvz0LBE061o3JlGNyQ_cl92gg.PNG.kcwjoma/GH_chanwoochan.png?type=w773"></p>
 
+
 <div align="center"> 
   
   ### 😊 DAILY LIFE!! 😊  
@@ -26,11 +27,19 @@ _Mechanical Engineering : Mechanism Design_
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Fusion 360-F8991C?style=for-the-badge&logo=Autodesk&logoColor=FFFFFF"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Inventor-F7A81B?style=for-the-badge&logo=Autodesk&logoColor=FFFFFF"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/AutoCAD-CD2640?style=for-the-badge&logo=Autodesk&logoColor=FFFFFF"/></a>
-<br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br>
+
+<img src="https://steamuserimages-a.akamaihd.net/ugc/2045230235135090310/AEE2B05D9ADDE62DF622A865AC541BDBB23AFC04/?imw=128&imh=72&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
+<img src="https://steamuserimages-a.akamaihd.net/ugc/2045230235135090310/AEE2B05D9ADDE62DF622A865AC541BDBB23AFC04/?imw=128&imh=72&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
+<img src="https://steamuserimages-a.akamaihd.net/ugc/2045230235135090310/AEE2B05D9ADDE62DF622A865AC541BDBB23AFC04/?imw=128&imh=72&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
+<img src="https://steamuserimages-a.akamaihd.net/ugc/2045230235135090310/AEE2B05D9ADDE62DF622A865AC541BDBB23AFC04/?imw=128&imh=72&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
+<img src="https://steamuserimages-a.akamaihd.net/ugc/2045230235135090310/AEE2B05D9ADDE62DF622A865AC541BDBB23AFC04/?imw=128&imh=72&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
+<img src="https://steamuserimages-a.akamaihd.net/ugc/2045230235135090310/AEE2B05D9ADDE62DF622A865AC541BDBB23AFC04/?imw=128&imh=72&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
 
 ------
 
 </div>
+<br><br><br>
 
 > ‼️ This document was written in Korean and translated through Papago! ‼️
 
