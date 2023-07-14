@@ -104,6 +104,12 @@ int main(void) {
 이상입니다.[아희]멓떠벌번
 ```
 
+```누리
+꾸러미 "/opt/nuri/유용한 함수들.nuri" 
+"Hello, "과 "Chanwoochan's World!"을 연결하고 문자열로 보여주다
+# 이상입니다. [누리]
+```
+
 
 <!--
 **Chanwoochan/Chanwoochan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
