@@ -76,7 +76,7 @@ int main(void) {
 // that's about it. [c]
 ```
 
-```cpp
+```c
 #include <iostream>
 int main(void) {
   std::cout << "Hello, Chanwoochan's World!" << std::endl;
