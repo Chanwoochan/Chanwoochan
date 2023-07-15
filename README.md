@@ -67,7 +67,7 @@ print("Hello, Chanwoochan's World!")
 # that's about it. [python]
 ```
 
-```c
+```cpp
 #include <stdio.h>
 int main(void) {
   printf("Hello, Chanwoochan's World!\n");
@@ -76,7 +76,7 @@ int main(void) {
 // that's about it. [c]
 ```
 
-```c
+```cpp
 #include <iostream>
 int main(void) {
   std::cout << "Hello, Chanwoochan's World!" << std::endl;
@@ -91,7 +91,7 @@ int main(void) {
 # 이상입니다. [누리]
 ```
 
-```
+```bash
 밣받따받따맣밝밝따박따받다뭏
 붒벖멓떠벋떠벖벖멓떠벋떠벖벖
 따받따받다맣밤발따반따밤다뭏
