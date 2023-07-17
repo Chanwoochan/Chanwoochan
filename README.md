@@ -85,12 +85,6 @@ int main(void) {
 // that's about it. [c++]
 ```
 
-```python
-꾸러미 "/opt/nuri/유용한 함수들.nuri" 
-"Hello, "과 "Chanwoochan's World!"을 연결하고 문자열로 보여주다
-# 이상입니다. [누리]
-```
-
 ```html
 밣받따받따맣밝밝따박따받다뭏
 붒벖멓떠벋떠벖벖멓떠벋떠벖벖
@@ -109,19 +103,3 @@ int main(void) {
 따맣발발따밤따맣발밦따받다뭏
 이상입니다.[아희]멓떠벌번
 ```
-
-
-<!--
-**Chanwoochan/Chanwoochan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
