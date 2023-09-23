@@ -45,20 +45,6 @@ _Mechanical Engineering : Mechanism Design_
 
 <br>
 <br>
-
-# Strengths and weaknesses #
-
-
-|Strengths|Weaknesse|
-|:--:|:--:|
-|..|English.|
-||English.|
-||English.|
-||English.|
-
-
-<br>
-<br>
 <br>
 <br>
 
